@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(./images/download\ \(1\).jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+
+h1{
+    color: greenyellow;
+    padding-bottom: 6rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 7rem;
+    font-size: 3.4rem;
+}
+
+h2{
+    text-align: center;
+    color: gold;
+    font-size: 3rem;
+}
+
+button{
+    width: 9rem;
+    height: 3rem;
+    border-radius: 7px;
+    box-shadow: 2px 2px 4px greenyellow;
+    outline: none;
+    border: none;
+}
+
+p{
+    color: red;
+    text-align: center;
+}
+
